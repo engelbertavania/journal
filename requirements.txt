@@ -1,0 +1,14 @@
+
+---
+
+## `requirements.txt`
+
+```txt
+numpy
+pandas
+scipy
+statsmodels
+yfinance
+scikit-learn
+tensorflow==2.15.0
+matplotlib
